@@ -11,3 +11,9 @@ vector2 = np.array([4, 5, 6])
 concatenated = np.vstack((vector1, vector2))
 
 print("Concatenated Vectors as Rows:\n", concatenated)
+
+
+
+=== Pandas - DataFrames 열과 행 삭제
+
+https://blog.naver.com/rising_n_falling/221631637822
